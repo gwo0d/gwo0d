@@ -1,8 +1,8 @@
 ### Hi there, I'm George! 👋
 
 - 🎓 I’m currently studying: Computer Science
-- 💬 Ask me about: First Aid
-- 📫 How to reach me: git@gwood.dev
+- 🏥 Ask me about: First Aid
+- 📫 How to reach me: [git@gwood.dev](mailto:git@gwood.dev)
 - 😄 Pronouns: he/him
 
 
