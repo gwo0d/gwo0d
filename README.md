@@ -1,9 +1,9 @@
 ### Hi there, I'm George! 👋
 
-- 🎓 I’m currently studying: Computer Science
-- 🏥 Ask me about: First Aid
-- 📫 How to reach me: [git@gwood.dev](mailto:git@gwood.dev)
-- 😄 Pronouns: he/him
+- 🎓 I’m currently researching Computer Science at Newcastle University 
+- 🏥 In my spare time, I enjoy practicing Event First Aid
+- 📫 You can reach me by email at [git@gwood.dev](mailto:git@gwood.dev)
+- 😄 My pronouns are he/him/his
 
 
 ## My Holopins
